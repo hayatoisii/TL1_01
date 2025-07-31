@@ -6,8 +6,8 @@
             "name": "Cube",
             "transform": {
                 "translation": [
-                    7.111435413360596,
-                    -0.7717938423156738,
+                    0.0,
+                    0.0,
                     0.0
                 ],
                 "rotation": [
@@ -21,20 +21,7 @@
                     1.0
                 ]
             },
-            "file_name": "cube",
-            "collider": {
-                "type": "BOX",
-                "center": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "size": [
-                    2.0,
-                    2.0,
-                    2.0
-                ]
-            }
+            "file_name": "cube"
         },
         {
             "type": "LIGHT",
@@ -80,12 +67,12 @@
         },
         {
             "type": "MESH",
-            "name": "cube",
+            "name": "Cube.001",
             "transform": {
                 "translation": [
-                    -4.647009372711182,
-                    3.548858165740967,
-                    3.2086734771728516
+                    0.0,
+                    0.0,
+                    3.0422980785369873
                 ],
                 "rotation": [
                     0.0,
@@ -98,20 +85,29 @@
                     1.0
                 ]
             },
-            "file_name": "cube",
-            "collider": {
-                "type": "BOX",
-                "center": [
+            "file_name": "cube"
+        },
+        {
+            "type": "MESH",
+            "name": "Cube.002",
+            "transform": {
+                "translation": [
+                    -3.288971185684204,
                     0.0,
+                    1.4594807624816895
+                ],
+                "rotation": [
                     0.0,
+                    -0.0,
                     0.0
                 ],
-                "size": [
-                    2.0,
-                    2.0,
-                    2.0
+                "scaling": [
+                    1.0,
+                    1.0,
+                    1.0
                 ]
-            }
+            },
+            "file_name": "cube"
         }
     ]
 }
